@@ -1,5 +1,5 @@
 <p>
-  <img width="1000" src="LuisRodriguez.jpg" alt="banner">
+  <img width="900" src="LuisRodriguez.jpg" alt="banner">
 </p>
 
 ---
