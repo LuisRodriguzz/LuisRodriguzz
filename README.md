@@ -34,7 +34,7 @@ interaction with search and country information, as an aggregate of activities c
 
 ## Contact Me
 
-**LinkedIn** | [Luis Rodriguez](www.linkedin.com/in/LuisRodriguezzr)<br>
+**LinkedIn** | [Luis Rodriguez](www.linkedin.com/in/luisrodriguezzr)<br>
 **Email**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| luisrodriguzzr@gmail.com<br>
 
 
