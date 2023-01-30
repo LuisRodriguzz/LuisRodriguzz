@@ -40,3 +40,5 @@ interaction with search and country information, as an aggregate of activities c
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisRodriguzz&show_icons=true&theme=gruvbox)
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=odalviarez&label=Profile%20views&color=0e75b6&style=flat" alt="LuisRodriguzz" /> </p>
