@@ -24,6 +24,8 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/c7d326b6009e60442abc35fa45706d6f30ee4c8e/icons/npm/npm-original-wordmark.svg" alt="npm" height="40" style="vertical-align:top; margin:4px">
       <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" alt="Express" height="40" style="vertical-align:top; margin:4px">
       <img src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap" height="40" style="vertical-align:top; margin:4px">
+      <img src="https://desarrolloweb.com/storage/tag_images/actual/BzOL16MEqsKOe0VThjF6FXPBi0uyK16lkTety9Wz.png" alt="c#" height="40" style="vertical-align:top; margin:4px">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/1200px-Microsoft_.NET_logo.svg.png" alt=".net" height="40" style="vertical-align:top; margin:4px">
     </p>
 
 ## Applications
