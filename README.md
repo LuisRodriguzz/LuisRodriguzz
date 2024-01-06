@@ -29,10 +29,10 @@
     </p>
 
 ## Applications
-**AdilBet** | [Live Site](https://adil-bet.vercel.app/) | [Source Code](https://github.com/LuisRodriguzz/PF-AdilBet)<br>
+**AdilBet** | [Source Code](https://github.com/LuisRodriguzz/PF-AdilBet)<br>
 A fullstack JavaScript application where users can see and interact with a 100% functional betting page.
 
-**Countries** | [Live Site](https://front-api-countries.vercel.app/) | [Source Code](https://github.com/LuisRodriguzz/Front-API-Countries)<br>
+**Countries** | [Source Code](https://github.com/LuisRodriguzz/Front-API-Countries)<br>
 interaction with search and country information, as an aggregate of activities carried out by seasons and countries.
 
 ## Contact Me
